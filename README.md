@@ -12,7 +12,7 @@ input ```python manage.py flush```
 to delete all data we have and start your own
 
 We also has the feature that you can adjust the frontend display by entering the web docker
-in `ridefront` folder, input ```yarn run serve```` and open the frontend port
+in `ridefront` folder, input ```yarn run serve``` and open the frontend port
 
 Have Fun :)
 
